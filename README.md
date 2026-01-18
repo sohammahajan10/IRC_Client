@@ -1,2 +1,2 @@
 # GDG_Python_T2
-This is Task-2 of Python Subdomain of GDG-VIT Recruitments 2026.
+These are the tasks of Python Subdomain of GDG-VIT Recruitments 2026.
